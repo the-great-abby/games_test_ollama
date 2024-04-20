@@ -1,0 +1,4 @@
+./docs/*
+./games/*
+poetry.lock
+.DS_Store
